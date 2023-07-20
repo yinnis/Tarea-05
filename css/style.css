@@ -1,0 +1,16 @@
+body {
+
+    background-color: rgba(152, 153, 147, 0.162);
+}
+
+#contenedor img {
+    margin-top: 2%;
+}
+
+#contendor {
+    box-shadow: 5px rgb(159, 116, 211);
+    border: 3px rgb(207, 196, 196) solid;
+    width: 18rem;
+    min-width: 18rem;
+    margin: 10px;
+}
